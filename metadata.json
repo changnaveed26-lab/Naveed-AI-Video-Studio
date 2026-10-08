@@ -1,0 +1,7 @@
+{
+  "name": "Veo Animator - Image to Video Studio",
+  "description": "Animate photos into cinematic videos with Google Veo 3.1 Fast, customizable aspect ratios (16:9 & 9:16), motivational motion styles, and Urdu speech generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
